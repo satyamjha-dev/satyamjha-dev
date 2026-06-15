@@ -97,7 +97,9 @@ Showcasing projects and development journey.
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://satyamjha-dev.netlify.app">
-  <img src="https://raw.githubusercontent.com/satyamjha-dev/satyamjha-dev/main/image.png" width="48" />
+
+<img src="https://skillicons.dev/icons?i=netlify" />
+
 </a>
 </p>
 

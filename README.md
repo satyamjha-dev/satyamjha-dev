@@ -96,8 +96,8 @@ Showcasing projects and development journey.
 <a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/satyam-kumar-jha-7a62bb387/)">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="https://your-portfolio-link">
-  <img src="https://raw.githubusercontent.com/satyamjha-dev/Portfolio/image.png" width="48" />
+<a href="https://satyamjha-dev.netlify.app">
+  <img src="https://raw.githubusercontent.com/satyamjha-dev/satyamjha-dev/main/image.png" width="48" />
 </a>
 </p>
 

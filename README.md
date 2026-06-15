@@ -97,7 +97,7 @@ Showcasing projects and development journey.
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://your-portfolio-link">
-  <img src="https://raw.githubusercontent.com/satyamjha-dev/satyamjha-dev/main/assets/logo.png" width="48" />
+  <img src="https://raw.githubusercontent.com/satyamjha-dev/Portfolio/image.png" width="48" />
 </a>
 </p>
 

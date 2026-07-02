@@ -12,7 +12,7 @@ Hi 👋, I’m Satyam Jha
 * 🎓 B.Tech Student
 * 🌱 Currently learning System Design & Advanced Backend
 * 💻 Building Full Stack & AI Projects
-* 🧠 Practicing DSA and Competitive Programming
+* 🧠 Practicing DSA 
 * ⚡ Interested in AI, RAG Systems, and Open Source
 * 📫 Reach me at satyam.jha.coder@gmail.com
 

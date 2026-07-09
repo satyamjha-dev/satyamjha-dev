@@ -10,7 +10,6 @@ Hi 👋, I’m Satyam Jha
 🚀 About Me
 
 * 🎓 B.Tech Student
-* 🌱 Currently learning System Design & Advanced Backend
 * 💻 Building Full Stack & AI Projects
 * 🧠 Practicing DSA 
 * ⚡ Interested in AI, RAG Systems, and Open Source

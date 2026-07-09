@@ -2,7 +2,7 @@ Hi 👋, I’m Satyam Jha
 
 <h3 align="center">Full Stack Developer • AI Enthusiast • Open Source Learner</h3>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+AI+%26+Scalable+Systems;React+%7C+Node.js+%7C+MongoDB;System+Design+Learner;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+AI+%26+Scalable+Systems;React+%7C+Node.js+%7C+MongoDB;;Always+Learning+Something+New" />
 </p>
 
 ⸻

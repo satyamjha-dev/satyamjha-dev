@@ -47,10 +47,10 @@ Languages & Tools
 
 🎯 Current Focus
 
-* System Design
+* DSA
 * Backend Engineering
-* AI + RAG Systems
 * Open Source Contributions
+* AI tools
 
 ⸻
 

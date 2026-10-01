@@ -78,16 +78,7 @@ Experiments with AI, automation and productivity tools.
 
 
 
-⸻
 
-📈 Contribution Graph
-
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyamjha-dev&theme=tokyo-night"/>
-</p>
-
-⸻
 
 🌐 Connect With Me
 

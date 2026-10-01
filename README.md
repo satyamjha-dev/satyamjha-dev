@@ -10,9 +10,9 @@ Hi 👋, I’m Satyam Jha
 🚀 About Me
 
 * 🎓 B.Tech Student
-* 💻 Building Full Stack & AI Projects
+* 💻 Building Full Stack Projects
 * 🧠 Practicing DSA 
-* ⚡ Interested in AI, RAG Systems, and Open Source
+* ⚡ Interested in AI
 * 📫 Reach me at satyam.jha.coder@gmail.com
 
 ⸻
@@ -64,11 +64,8 @@ Modern freelancing and service marketplace platform built with React and Supabas
 
 Experiments with AI, automation and productivity tools.
 
-🌐 Portfolio Website
+🌐 Portfolio -> https://satyamjha-dev.netlify.app
 
-Personal portfolio showcasing projects and development journey.
-
-⸻
 
 
 🔥 GitHub Streak

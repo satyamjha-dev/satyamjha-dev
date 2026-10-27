@@ -81,7 +81,7 @@ Languages & Tools
   <tr>
     <td align="center" width="50%">
       <a href="https://gpa-calculator-m53d.onrender.com">
-        <img src="./assets/gpa-calculator.gif" width="100%" alt="GPA Calculator preview"/>
+        <img src="./assets/gpacalulator.gif" width="100%" alt="GPA Calculator preview"/>
       </a>
       <br/>
       <strong>GPA Calculator</strong>

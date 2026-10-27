@@ -55,42 +55,39 @@ Languages & Tools
 ⸻
 
 
+
+
+
+
 <h2 align="center">🚀 Featured Projects</h2>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://wedowork.vercel.app">
-        <img src="./assets/wedowork.gif" width="100%" alt="WeDoWork preview"/>
-      </a>
-      <br/>
-      <strong>WeDoWork</strong>
-      <br/>
-      <a href="https://wedowork.vercel.app">Live Demo ↗</a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://pharma-gaurd-six.vercel.app">
-        <img src="./assets/pharmaguard.gif" width="100%" alt="PharmaGuard preview"/>
-      </a>
-      <br/>
-      <strong>PharmaGuard</strong>
-      <br/>
-      <a href="https://pharma-gaurd-six.vercel.app">Live Demo ↗</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://gpa-calculator-m53d.onrender.com">
-        <img src="./assets/gpacalulator.gif" width="100%" alt="GPA Calculator preview"/>
-      </a>
-      <br/>
-      <strong>GPA Calculator</strong>
-      <br/>
-      <a href="https://gpa-calculator-m53d.onrender.com">Live Demo ↗</a>
-    </td>
-    <td width="50%"></td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <a href="https://wedowork.vercel.app">
+          <img src="./assets/wedowork.gif" width="240" alt="WeDoWork preview">
+        </a>
+        <br><strong>WeDoWork</strong><br>
+        <a href="https://wedowork.vercel.app">Live Demo ↗</a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://pharma-gaurd-six.vercel.app">
+          <img src="./assets/pharmaguard.gif" width="240" alt="PharmaGuard preview">
+        </a>
+        <br><strong>PharmaGuard</strong><br>
+        <a href="https://pharma-gaurd-six.vercel.app">Live Demo ↗</a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://gpa-calculator-m53d.onrender.com">
+          <img src="./assets/gpacalulator.gif" width="240" alt="GPA Calculator preview">
+        </a>
+        <br><strong>GPA Calculator</strong><br>
+        <a href="https://gpa-calculator-m53d.onrender.com">Live Demo ↗</a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 🌐 Portfolio -> https://satyamjha-dev.netlify.app

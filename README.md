@@ -1,9 +1,18 @@
-Hi 👋, I’m Satyam Jha
 
-<h3 align="center">Full Stack Developer • AI Enthusiast • Open Source Learner</h3>
+# Hi 👋, I'm Satyam Jha
+
+<h3 align="center">
+  Full-stack Developer building end-to-end web applications.
+</h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Building+End-to-End+Web+Applications;React+%7C+Node.js+%7C+TypeScript;Connecting+Frontend%2C+Backend+%26+Databases;Turning+Ideas+Into+Working+Software" alt="Typing animation" />
 </p>
+
+<p align="center">
+  I build web applications across the frontend, backend, and database layers, turning ideas into working software.
+</p>
+
 
 ⸻
 
